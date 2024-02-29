@@ -2,15 +2,25 @@
 "O segredo do sucesso é a constância do propósito." - _Benjamin Disraeli_
 
 👋 Olá, Bem vindo ao meu perfil
-Meu nome é Lucas Dias, sou Analista de dados e estou constantemente estudando 
-ferramentas e conceitos da área para me especializar e me capacitar como 
-administrador, arquiteto, engenheiro e cientista de dados.
+Meu nome é Lucas Dias, sou Analista de dados.
+
+Estou constantemente estudando ferramentas e conceitos da área para
+
+me especializar e me capacitar como administrador, arquiteto, engenheiro e cientista de dados.
+
+.
 
 📚 Estudando Ciência de dados.
+
 🚀 Melhorando meu conhecimento de Python, SQL, Power BI, Machine Learning, Big Data
+
 📫 My email: lucasdiasstrabalho@gmail.com
 
+.
+
 ⚡ Technologies
+
+.
 
 ![image](https://github.com/Lucasdbvd/Perfil-Crescente/assets/113057108/c3cf3dc0-fa23-41ea-af7b-ae2206869680)
 ![image](https://github.com/Lucasdbvd/Perfil-Crescente/assets/113057108/736f59b5-a4c6-4f1c-912a-5ddb4ec5068f)
