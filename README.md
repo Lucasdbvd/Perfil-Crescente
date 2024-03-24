@@ -8,7 +8,9 @@ Estou constantemente estudando ferramentas e conceitos da área para
 
 me especializar e me capacitar como administrador, arquiteto, engenheiro e cientista de dados.
 
-.
+Tenho proficiência em python utilizando as bibliotecas Pandas e Numpy para manipulação, Seaborn e Matplotlib para visualização gráfica e sklearn e kmodes para algoritmos de regressão, classificação e clusterização.
+
+Habilidades analíticas e exploratórias em SQL e Power BI para criar gráficos e tirar insights valiosos com banco de dados como Mysql ou Metabase, e desenvolver dashboards e reports.
 
 📚 Estudando Ciência de dados.
 
